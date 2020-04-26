@@ -771,7 +771,7 @@ a.donate:hover {
 }
 .navbar-default .navbar-nav>li>a:hover, 
 .navbar-default .navbar-nav>li>a:focus {
-	color: #3cc0bf;
+	color: #9c12f3;
 }
 .navbar-default.menu-bg .navbar-nav>li>a:hover, 
 .navbar-default.menu-bg .navbar-nav>li>a:focus,
@@ -808,7 +808,7 @@ a.donate:hover {
 }
 .blog-page,
 .menu-bg {
-	background-color: #f39c12;
+	background-color: #9c12f3;
 }
 /* 3 - Main Menu End 
 ------------------------------------------------------------------------*/
